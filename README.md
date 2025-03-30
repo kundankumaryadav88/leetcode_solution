@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/kundankumaryadav88/leetcode_solution/tree/master/0001-two-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kundankumaryadav88/leetcode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/kundankumaryadav88/leetcode_solution/tree/master/0162-find-peak-element) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kundankumaryadav88/leetcode_solution/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Bit Manipulation
 |  |
@@ -29,4 +30,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kundankumaryadav88/leetcode_solution/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/kundankumaryadav88/leetcode_solution/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
